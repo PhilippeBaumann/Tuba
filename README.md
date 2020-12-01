@@ -1,2 +1,2 @@
 # Tuba
-Tuba Programming language
+Tuba Programming language by Trouba
